@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(207, 131, 131);
+}
+
+body {
+
+    font-family: "Helvetica Neue";
+    text-align: center;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+img {
+    border-radius: 10px;
+    margin-top: 8px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+button {
+    background-color: rgb(179, 117, 25);
+    color:rgb(218, 214, 19);
+
+}
